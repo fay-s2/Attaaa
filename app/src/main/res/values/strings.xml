@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Attaaa</string>
+    <string name="password">password</string>
+    <string name="e_mail_adress">e_mail_adress</string>
+    <string name="loginn">loginn</string>
+    <string name="log_in">log_in</string>
+    <string name="do_not_have_an_account_register">do_not_have_an_account_register</string>
+    <string name="do_not_hav_an_account_register">do not have an account? register</string>
+    <string name="login">Login</string>
+    <string name="passwordd">passwordd</string>
+    <string name="e_mail">E-mail</string>
+</resources>
